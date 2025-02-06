@@ -8,7 +8,7 @@ import ShoppingCartModal from "@/components/ShoppingCartModal";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hafsa Commerce",
+  title: "Anum E-commerce",
   description: "Ecommerce App",
 };
 
